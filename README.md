@@ -71,3 +71,9 @@ The design was created using KiCAD 9.0.  The following provides a brief descript
 | U6                  | 1    | 4-Channel-Relay-Module        |                      |
 
 
+
+## XIAO ESP32-C3 Firmware
+
+The firmware is in the Home Assistant Devices repository: 
+
+https://github.com/odelayIO/Home-Assistant-Devices/tree/main/HA_MQTT_puch_rack_controller
