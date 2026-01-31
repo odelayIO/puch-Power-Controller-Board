@@ -31,7 +31,7 @@ KiCAD 9.0 board design for the puch Power Controller Board.  This boad has the f
 
 ![3d-side](./doc/3d-side.png)
 
-
+![3d-side-2](./doc/3d-side-2.png)
 
 
 
