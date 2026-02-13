@@ -1,5 +1,9 @@
 # puch-Power-Controller-Board
 
+![20260208_193118575_iOS](./doc/20260208_193118575_iOS.jpg)
+
+![20260208_193058071_iOS](./doc/20260208_193058071_iOS.jpg)
+
 ## Overview
 
 KiCAD 9.0 board design for the puch Power Controller Board.  This boad has the following features:
@@ -71,6 +75,30 @@ The design was created using KiCAD 9.0.  The following provides a brief descript
 | U6                  | 1    | 4-Channel-Relay-Module        |                      |
 
 
+
+## Assembly
+
+Re-flowed the LM7805 voltage regulators to PCB due to the large copper heat sink.
+
+![20260203_215534040_iOS](./doc/20260203_215534040_iOS.jpg)
+
+![20260203_215539159_iOS](./doc/20260203_215539159_iOS.jpg)
+
+![20260206_191316677_iOS](./doc/20260206_191316677_iOS.jpg)
+
+![20260206_191319752_iOS](./doc/20260206_191319752_iOS.jpg)
+
+![20260206_191324346_iOS](./doc/20260206_191324346_iOS.jpg)
+
+
+
+## Verification
+
+PWM verification using oscilloscope
+
+![6](./doc/6.bmp)
+
+![7](./doc/7.bmp)
 
 ## XIAO ESP32-C3 Firmware
 
