@@ -105,3 +105,9 @@ PWM verification using oscilloscope
 The firmware is in the Home Assistant Devices repository: 
 
 https://github.com/odelayIO/Home-Assistant-Devices/tree/main/HA_MQTT_puch_rack_controller
+
+
+
+### Home Assistant Integration:
+
+![HA_puch-power-controller](./doc/HA_puch-power-controller.png)
